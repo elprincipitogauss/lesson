@@ -17,7 +17,7 @@ Rating,Company Name,Job Title,Salary,Salaries Reported,Location,Employment Statu
 3.9,Knowledge Flex,Android Developer,228000,2,Bangalore,Full Time,Android
 3.6,Novopay Solutions,Android Developer,600000,2,Bangalore,Full Time,Android
 3.7,WealthEngine,Android Developer,360000,2,Bangalore,Full Time,Android
-4.0,J.P. Morgan,Android Developer,1000000,2,Bangalore,Full Time,Android
+,J.P. Morgan,Android Developer,1000000,2,Bangalore,Full Time,Android
 3.6,Acviss,Android Developer,500000,2,Bangalore,Full Time,Android
 4.1,Fresher,Android Developer,408000,2,Bangalore,Full Time,Android
 4.2,MedOnGo,Android Developer,300000,2,Bangalore,Full Time,Android
@@ -68,7 +68,7 @@ Rating,Company Name,Job Title,Salary,Salaries Reported,Location,Employment Statu
 4.2,Across The Globe,Android Developer - Intern,72000,2,Bangalore,Intern,Android
 3.9,HARMAN,Android Developer,700000,2,Bangalore,Full Time,Android
 3.2,Oust Labs,Android Developer,396000,2,Bangalore,Full Time,Android
-4.0,Kaskeid Designs,Android Developer,264000,2,Bangalore,Full Time,Android
+4.0,,Android Developer,264000,2,Bangalore,Full Time,Android
 3.6,TruKKer Technologies,Android Developer,500000,2,Bangalore,Full Time,Android
 3.3,Datamatics Global Services,Android Developer,1000000,2,Bangalore,Full Time,Android
 3.1,Grabhouse,Android Developer,672000,2,Bangalore,Full Time,Android
